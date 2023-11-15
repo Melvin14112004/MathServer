@@ -1,10 +1,14 @@
 # Ex.05 Design a Website for Server Side Processing
 ## Date:3.10.23
+
 ## AIM:
+
 To design a website to find total surface area of a square prism in server side.
 ## FORMULA:
+
 ![image](https://github.com/selvasachein/MathServer/assets/120453887/8ecc8d12-b9a9-43df-be0b-711f299d796d)
 ## DESIGN STEPS:
+
 ### Step 1:
 Clone the repository from GitHub.
 
@@ -22,6 +26,8 @@ Create a HTML file to implement form based input and output.
 
 ### Step 6:
 Publish the website in the given URL.
+
+
 ## PROGRAM :
 ```html
 <html>
